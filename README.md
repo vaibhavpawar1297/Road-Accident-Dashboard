@@ -25,6 +25,11 @@ This project is an interactive Excel dashboard created to analyze road accident 
 
 ---
 
+## 📷 Dashboard Preview
+<img width="1611" height="799" alt="Screenshot 2026-04-02 231551" src="https://github.com/user-attachments/assets/a21c7972-907e-40cd-a638-2bc474d47fc3" />
+
+---
+
 ## 🛠 Tools Used
 
 - Microsoft Excel
