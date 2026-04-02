@@ -26,7 +26,7 @@ This project is an interactive Excel dashboard created to analyze road accident 
 ---
 
 ## 📷 Dashboard Preview
-<img width="1612" height="797" alt="image" src="https://github.com/user-attachments/assets/6861c106-7539-4b51-89cc-9c5c6ba07595" />
+<img width="1612" height="798" alt="dashboard png" src="https://github.com/user-attachments/assets/65cd0ef8-7893-4323-9e1b-855a54956c22" />
 
 ---
 
